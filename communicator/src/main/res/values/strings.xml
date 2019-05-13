@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Communicator</string>
+    <string name="failed_to_scan">Failed to scan for devices</string>
+    <string name="no_bluetooth_connection">No Bluetooth Connection</string>
+    <string name="enable_bluetooth">Please enable Bluetooth</string>
+    <string name="failed_to_write">Failed to write data</string>
+    <string name="no_device_found">Could not find devices</string>
+</resources>
